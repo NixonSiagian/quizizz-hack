@@ -43,4 +43,4 @@ fetch("https://raw.githubusercontent.com/gbaranski/quizizz-cheat/oldmethod/dist/
 As we can see on this screenshot, the answer **www.quizizz.com** has the highest opacity, indicating a valid answer.
 ![screenshot](/docs/screenshot_1.png)
 
-[![P.gif](https://i.postimg.cc/fbDDjPb2/P.gif)](https://postimg.cc/yDQM7vcc)
+                                     [![P.gif](https://i.postimg.cc/fbDDjPb2/P.gif)](https://postimg.cc/yDQM7vcc)
